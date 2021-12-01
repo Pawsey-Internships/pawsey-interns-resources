@@ -79,10 +79,13 @@
 <a name="machine-learning-with-python-libraries"></a>
 #### Machine learning with Python libraries
 
-| Library     | Learning Resources | Installation |
+In general, a great resource for Python-related tutorial is the [Python Engineer YouTube Channel](https://www.youtube.com/c/PythonEngineer/videos).
+You can find examples of various Machine Learning (ML) model implementations using PyTorch and Tensorflow, Data processing hacks, and other Python-related topics.
+
+| Library     | Learning Resources | Description |
 | ----------- | :----------- |:-----------|
-| [scikit-learn](https://scikit-learn.org/stable/)  |  | |
-| [PyTorch](https://pytorch.org/docs/stable/)  |      | |
+| [scikit-learn](https://scikit-learn.org/stable/)  |  | Intuitive and easy to use ML library with pre-implemented ML algorithms. Limited configuration ability of models. |
+| [PyTorch](https://pytorch.org/docs/stable/)  |[DeepLearning with PyTorch YouTube Training](https://www.youtube.com/watch?v=c36lUUr864M) | |
 | [Tensorflow](https://www.tensorflow.org/learn) | | |
 | OpenCV | | |
 | ... | | |
