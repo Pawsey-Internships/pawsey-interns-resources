@@ -52,6 +52,9 @@
 
 <a name="filetransfer"></a>
 #### Filetransfer
+A demonstration how to transfer files from a Pawsey cluster to a local machine using Filezilla and rsync.
+If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php .)
+Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
 <a name="using-containers-on-a-pawsey-system"></a>
 #### Using containers on a Pawsey system
