@@ -73,6 +73,8 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="parallel-programming-with-python-and-mpi"></a>
 #### Parallel Programming with Python and MPI
+To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://www.youtube.com/watch?v=90ZgZf7qWE8) using the example of Conway's Game of Life. 
+The material used in the tutorial can be found in our [GitHub Repository](https://github.com/Pawsey-Internships/mpi_and_python)
 
 <a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
 #### Parallel Programming with Python using the multiprocessing library
