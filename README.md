@@ -31,6 +31,8 @@
 
 <a name="introduction-to-unix"></a>
 #### Introduction to Unix
+We introduce the BASH command line interface in our introduction to unix tutorial, including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed. \\
+The supporting material and in-depth reading can be found in our [GitHub Documentation].
 
 <a name="more-unix-features"></a>
 #### More Unix Features
@@ -49,11 +51,15 @@
 
 <a name="using-jupyter-notebook-on-a-pawsey-system"></a>
 #### Using Jupyter Notebook on a Pawsey system
+A demonstration on how to use Jupyter Notebook on Topaz using containers. \\
+Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity) \\
+You can choose the Jupyter Docker image most suited for your project from this [list](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)
+
 
 <a name="filetransfer"></a>
 #### Filetransfer
-A demonstration how to transfer files from a Pawsey cluster to a local machine using Filezilla and rsync.
-If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php .)
+A demonstration on how to transfer files from a Pawsey cluster to a local machine using Filezilla and rsync. \\
+If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
 <a name="using-containers-on-a-pawsey-system"></a>
