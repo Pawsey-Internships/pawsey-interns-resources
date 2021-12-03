@@ -74,6 +74,7 @@ Where USERNAME is the username of your windows user profile. Note: If your usern
 
 ~~~
 $ vim "/mnt/c/Users/Darth Vader/.ipython/profile_default/ipython_config.py"
+~~~
 
 alternatively, you can use the CMD command line, which when promoted will automatically be in your windows home directory. Then use the following command:
 ~~~
