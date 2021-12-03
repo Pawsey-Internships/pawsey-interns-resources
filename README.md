@@ -11,6 +11,7 @@
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system)
+		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 * [Parallel Programming](#parallel-programming)
@@ -54,6 +55,27 @@ The supporting material and in-depth reading can be found in our [GitHub Documen
 A demonstration on how to use Jupyter Notebook on Topaz using containers.\
 Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)\
 You can choose the Jupyter Docker image most suited for your project from this [list](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)
+
+<a name="storing-variables-in-jupyter-notebook"></a>
+##### Storing Variables in Jupyter Notebook
+When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file,is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
+Note for the tutorial: When using the WSL terminal on a windows machine, your .ipython directory is most likely not located in your Linux home directory, but in your windows home directory. This results in the following change of paths:
+Instead of using:
+~~~
+$ vim ~/.ipython/profile_default/ipython_config.py
+~~~
+
+use the following command:
+
+~~~
+$ vim /mnt/Users/USERNAME/.ipython/profile_default/ipython_config.py
+~~~
+Where username is the USERNAME of your windows user profile
+
+alternatively, you can use the CMD command line, which when promoted will automatically be in your windows home directory. Then use the following command:
+~~~
+$ notepad .ipython/profile_default/ipython_config.py
+~~~
 
 
 <a name="filetransfer"></a>
