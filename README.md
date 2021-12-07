@@ -105,7 +105,7 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
 #### Using Python Virtual Environment on a Pawsey system
-As an alternative to use containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial].
+As an alternative to use containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial](https://youtu.be/e4fBZIfndHc).
 
 Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
 
