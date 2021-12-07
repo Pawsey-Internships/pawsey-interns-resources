@@ -52,6 +52,9 @@ The material for the tutorial is published on our [GitHub Pages](https://pawsey-
 
 <a name="introduction-to-supercomputing-and-pawsey"></a>
 #### Introduction to Supercomputing and Pawsey
+Pawsey has multiple clusters which can be used for computation, when local resources do not suffice, or when the need to usse GPUs / parallelise code arises. An introduction on how to use Pawsey supercomputing resources, including an introduction to the Slurm Workload Manager is provided in this [workshop](https://youtu.be/qfSetBs09SE).
+
+The resources for the workshop are to be found in the [Pawsey GitHub Repository](https://github.com/PawseySC/Introductory-Supercomputing).
 
 <a name="using-visualstudio-on-a-pawsey-system"></a>
 #### Using VisualStudio on a Pawsey system
