@@ -49,6 +49,7 @@ The supporting material and in-depth reading can be found in our [GitHub Documen
 
 <a name="using-visualstudio-on-a-pawsey-system"></a>
 #### Using VisualStudio on a Pawsey system
+We explain how to use the VS Code IDE while running the developed code on the high performance computing cluster Topaz. ([Tutorial](https://youtu.be/TbYAedvDqAQ))
 
 <a name="using-jupyter-notebook-on-a-pawsey-system"></a>
 #### Using Jupyter Notebook on a Pawsey system
@@ -58,7 +59,8 @@ You can choose the Jupyter Docker image most suited for your project from this [
 
 <a name="storing-variables-in-jupyter-notebook"></a>
 ##### Storing Variables in Jupyter Notebook
-When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file,is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
+When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file, is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
+Using Store Magic with Jupyter Notebook is demonstrated in our [tutorial](https://youtu.be/uT-EBq-kdvY).\
 Note for the tutorial: When using the WSL terminal on a windows machine, your .ipython directory is most likely not located in your Linux home directory, but in your windows home directory. This results in the following change of paths:\
 Instead of using:
 ~~~
@@ -99,7 +101,7 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="parallel-programming-with-python-and-mpi"></a>
 #### Parallel Programming with Python and MPI
-To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://www.youtube.com/watch?v=90ZgZf7qWE8) using the example of Conway's Game of Life. 
+To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://youtu.be/90ZgZf7qWE8) using the example of Conway's Game of Life. 
 The material used in the tutorial can be found in our [GitHub Repository](https://github.com/Pawsey-Internships/mpi_and_python)
 
 <a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
