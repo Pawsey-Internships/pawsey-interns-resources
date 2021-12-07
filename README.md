@@ -109,7 +109,7 @@ As an alternative to use containers when wanting to install various python libra
 
 Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
 
-Notes to the tutorial:
+Notes to the tutorial:\
 In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:
 ~~~
 $ export PYTHONPATH=$MYGROUP/tutorial-env/lib/python3.6/site-packages
