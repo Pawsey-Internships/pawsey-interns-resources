@@ -52,7 +52,7 @@ The material for the tutorial is published on our [GitHub Pages](https://pawsey-
 
 <a name="introduction-to-supercomputing-and-pawsey"></a>
 #### Introduction to Supercomputing and Pawsey
-Pawsey has multiple clusters which can be used for computation, when local resources do not suffice, or when the need to usse GPUs / parallelise code arises. An introduction on how to use Pawsey supercomputing resources, including an introduction to the Slurm Workload Manager is provided in this [workshop](https://youtu.be/qfSetBs09SE).
+Pawsey has multiple clusters which can be used for computation, when local resources do not suffice, or when the need to use GPUs / parallelise code arises. An introduction on how to use Pawsey supercomputing resources, including an introduction to the Slurm Workload Manager is provided in this [workshop](https://youtu.be/qfSetBs09SE).
 
 The resources for the workshop are to be found in the [Pawsey GitHub Repository](https://github.com/PawseySC/Introductory-Supercomputing).
 
@@ -110,7 +110,7 @@ As an alternative to use containers when wanting to install various python libra
 Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
 
 Notes to the tutorial:
-In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:\
+In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:
 ~~~
 $ export PYTHONPATH=$MYGROUP/tutorial-env/lib/python3.6/site-packages
 ~~~
