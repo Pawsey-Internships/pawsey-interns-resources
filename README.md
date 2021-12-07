@@ -52,9 +52,9 @@ The supporting material and in-depth reading can be found in our [GitHub Documen
 
 <a name="using-jupyter-notebook-on-a-pawsey-system"></a>
 #### Using Jupyter Notebook on a Pawsey system
-A demonstration on how to use Jupyter Notebook on Topaz using containers.\
+A demonstration on how to use Jupyter Notebook on Topaz using containers is provided in form of a [tutorial](https://youtu.be/qrz-Se2zwJ8).\
 Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)\
-You can choose the Jupyter Docker image most suited for your project from this [list](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)
+You can choose the Jupyter Docker image most suited for your project from this [list](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 <a name="storing-variables-in-jupyter-notebook"></a>
 ##### Storing Variables in Jupyter Notebook
