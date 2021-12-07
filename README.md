@@ -14,6 +14,7 @@
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
+	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Parallel Programming](#parallel-programming)
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
@@ -93,6 +94,21 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="using-containers-on-a-pawsey-system"></a>
 #### Using containers on a Pawsey system
+
+<a name="using-python-virtual-environment-on-a-pawsey-system"></a>
+#### Using Python Virtual Environment on a Pawsey system
+As an alternative to use containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial].\
+
+Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).\
+
+Notes to the tutorial:
+In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:\
+~~~
+$ export PYTHONPATH=$MYGROUP/tutorial-env/lib/python3.6/site-packages
+~~~
+If your virtual environment is called differently to *tutorial-env*, please replace accordingly.\
+
+ADD MORE!!
 
 <a name="parallel-programming"></a>
 ### Parallel Programming
