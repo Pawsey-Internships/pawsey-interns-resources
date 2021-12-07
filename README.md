@@ -34,14 +34,18 @@
 <a name="introduction-to-unix"></a>
 #### Introduction to Unix
 We introduce the BASH command line interface in our [Introduction to unix tutorial](https://youtu.be/UnRBoqVmV9U), including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
-The supporting material and in-depth reading can be found in our [GitHub Documentation].
+The supporting material and in-depth reading can be found on [GitHub Pages](https://pawsey-internships.github.io/intro-unix-shell/).
 
 <a name="more-unix-features"></a>
 #### More Unix Features
 Further Unix Features introduced in the subsequent [tutorial](https://youtu.be/BjHSjtuRFnE) range from BASH scripts and functions to developing a user-defined 'del' command. Other topics addressed are regular expressions, if-statements, loops, and many more.
+The material accompanying the tutorial is in our [GitHub Repository](https://github.com/Pawsey-Internships/more_with_bash).
 
 <a name="version-control"></a>
 ### Version Control
+Version control with Git is a powerful tool, as it enables collaboration and navigating to previous versions, which is crucial in software development. ([Tutorial Part 1](https://youtu.be/1Rpr0XLoRJM), [Tutorial Part 2](https://youtu.be/0ZF8OPUnxKw)).
+
+The material for the tutorial is published on our [GitHub Pages](https://pawsey-internships.github.io/version-control/).
 
 <a name="supercomputing"></a>
 ### Supercomputing
@@ -88,7 +92,8 @@ $ notepad .ipython/profile_default/ipython_config.py
 
 <a name="filetransfer"></a>
 #### Filetransfer
-A demonstration on how to transfer files from a Pawsey cluster to a local machine using Filezilla and rsync.\
+When working on a remote machine like the Pawsey system, often files need to be transferred between the local machine and the remote machine. One way of transferring and synchronising files is by using GitHub repositories and accessing the same repository from the local and from the remote machine. However, the filesize for GitHub is limited, therefore other options are recommended when transferring larger files.
+In the provided [tutorial], we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used via WSL (not via GitBash).\
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
@@ -97,18 +102,18 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
 #### Using Python Virtual Environment on a Pawsey system
-As an alternative to use containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial].\
+As an alternative to use containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial].
 
-Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).\
+Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
 
 Notes to the tutorial:
 In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:\
 ~~~
 $ export PYTHONPATH=$MYGROUP/tutorial-env/lib/python3.6/site-packages
 ~~~
-If your virtual environment is called differently to *tutorial-env*, please replace accordingly.\
+If your virtual environment is called differently to *tutorial-env*, please replace accordingly.
 
-ADD MORE!!
+In the tutorial section where prompted to load the *fix.group.permissions.sh* file, the file does not need to be located in your current directory, but is already on the HPC, therefore typing the command as prompted in the video suffices, without prior downloading the file. More information on the fix group permissions Pawsey tool is provided in the [Pawsey Documentation](https://support.pawsey.org.au/documentation/display/US/Pawsey+File+Systems+and+their+Usage).
 
 <a name="parallel-programming"></a>
 ### Parallel Programming
@@ -127,8 +132,6 @@ The material used in the tutorial can be found in our [GitHub Repository](https:
 <a name="package-management"></a>
 ### Package Management
 
-< !-- *maybe as subsection instead? But where?* --/>
-
 <a name="domain-specific-knowledge-resources"></a>
 ### Domain-specific knowledge resources
 
@@ -145,8 +148,6 @@ You can find examples of various Machine Learning (ML) model implementations usi
 | [Tensorflow](https://www.tensorflow.org/learn) | | |
 | OpenCV | | |
 | ... | | |
-
-< !-- *for installation name a pawsey container if available + pip command if working locally* --/>
 
 <a name="molecular-dynamics-resources"></a>
 #### Molecular Dynamics Resources
