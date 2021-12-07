@@ -32,11 +32,12 @@
 
 <a name="introduction-to-unix"></a>
 #### Introduction to Unix
-We introduce the BASH command line interface in our introduction to unix tutorial, including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
+We introduce the BASH command line interface in our [Introduction to unix tutorial](https://youtu.be/UnRBoqVmV9U), including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
 The supporting material and in-depth reading can be found in our [GitHub Documentation].
 
 <a name="more-unix-features"></a>
 #### More Unix Features
+Further Unix Features introduced in the subsequent [tutorial](https://youtu.be/BjHSjtuRFnE) range from BASH scripts and functions to developing a user-defined 'del' command. Other topics addressed are regular expressions, if-statements, loops, and many more.
 
 <a name="version-control"></a>
 ### Version Control
