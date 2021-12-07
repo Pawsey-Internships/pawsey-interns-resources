@@ -96,7 +96,7 @@ $ notepad .ipython/profile_default/ipython_config.py
 <a name="filetransfer"></a>
 #### Filetransfer
 When working on a remote machine like the Pawsey system, often files need to be transferred between the local machine and the remote machine. One way of transferring and synchronising files is by using GitHub repositories and accessing the same repository from the local and from the remote machine. However, the filesize for GitHub is limited, therefore other options are recommended when transferring larger files.
-In the provided [tutorial], we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used via WSL (not via GitBash).\
+In the provided [tutorial](https://youtu.be/WgzqGHtGluQ), we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used with WSL (not with a GitBash/PowerShell/cmd terminal).\
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
