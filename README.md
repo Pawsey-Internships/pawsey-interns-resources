@@ -140,6 +140,7 @@ The material used in the tutorial can be found in our [GitHub Repository](https:
 
 <a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
 #### Parallel Programming with Python using the multiprocessing library
+The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
 
 <a name="package-management"></a>
 ### Package Management
