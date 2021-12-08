@@ -110,7 +110,7 @@ Additional file transfer methods, and additional information to the introduced m
 #### Using containers on a Pawsey system
 An efficient way to use software and libraries that are not available on Pawsey system, is to use a container. In this [tutorial](https://youtu.be/gxe2ER5mDm0), you find step-by-step instructions on how to built containers using [sylabs](https://sylabs.io/) and [singularity](https://support.pawsey.org.au/documentation/display/US/Singularity+modules+on+Pawsey+systems) on Topaz.
 
-In-depth [documentation]((https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
+In-depth [documentation](https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
 #### Using Python Virtual Environment on a Pawsey system
