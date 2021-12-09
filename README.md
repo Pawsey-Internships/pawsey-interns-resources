@@ -58,8 +58,8 @@ Pawsey has multiple clusters which can be used for computation, when local resou
 The resources for the workshop are to be found in the [Pawsey GitHub Repository](https://github.com/PawseySC/Introductory-Supercomputing).
 
 A collection of resources for further reading about Pawsey supercomputing systems is to be found under the following links:\
-[Introductory Supercomputing at Pawsey slides](https://support.pawsey.org.au/documentation/download/attachments/2162899/Introductory%20Supercomputing.pdf?api=v2)
-[Slurm Workload Manager and Command/option summary documentation](https://slurm.schedmd.com/documentation.html)
+[Introductory Supercomputing at Pawsey slides](https://support.pawsey.org.au/documentation/download/attachments/2162899/Introductory%20Supercomputing.pdf?api=v2)\
+[Slurm Workload Manager and Command/option summary documentation](https://slurm.schedmd.com/documentation.html)\
 [Topaz Quick Reference Sheet](https://support.pawsey.org.au/documentation/download/attachments/34017103/Topaz_Quick_R[…]_Guide.pdf?version=2&modificationDate=1601967569275&api=v2)
 
 <a name="using-visualstudio-on-a-pawsey-system"></a>
