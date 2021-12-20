@@ -1,5 +1,5 @@
 # Pawsey Intern Resource Collection
-< !-- *Quick intro to repo.* --/>
+< !-- *Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship resources page. Here you can find a library of all information and training materials that pertain to the internship program. * --/>
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -13,13 +13,13 @@
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system)
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)
-	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
-	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Parallel Programming](#parallel-programming)
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
 	* [Parallel Programming with Python using the multiprocessing library](#parallel-programming-with-python-using-the-multiprocessing-library)
 * [Package Management](#package-management)
+	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
+	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources)
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries)
 	* [Molecular Dynamics resources](#molecular-dynamics-resources)
