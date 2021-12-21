@@ -30,7 +30,7 @@
 [Supercomputers](#supercomputing) play an important role and are used for a wide range of computationally intensive tasks in various fields, including quantum physics, molecular modelling, machine learning, climate research and many more. Supercomputers are generally accessed via the local command line using SSH, which requires [Unix](#unix) skills to navigate through the supercomputer and launch and monitor jobs on the cluster.
 
 <a name="unix"></a>
-### Unix
+## Unix :shell:
 
 <a name="introduction-to-unix"></a>
 #### Introduction to Unix
