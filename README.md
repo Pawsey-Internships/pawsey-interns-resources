@@ -13,6 +13,8 @@
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)  :email::airplane:
+* [Cloud Computing](#cloud-computing) :cloud::computer:
+	* [Nimbus](#nimbus) 
 * [Parallel Programming](#parallel-programming) :flags::computer:
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
@@ -105,6 +107,14 @@ When working on a remote machine like the Pawsey system, often files need to be 
 In the provided [tutorial](https://youtu.be/WgzqGHtGluQ), we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used with WSL (not with a GitBash/PowerShell/cmd terminal).\
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
+
+<a name="cloud-computing"></a>
+## Cloud Computing :cloud::computer:
+
+<a name="nimbus"></a>
+### Cloud Computing with Nimbus :cloud::broom:
+We introduce the BASH command line interface in our [Introduction to unix tutorial](https://youtu.be/UnRBoqVmV9U), including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
+The supporting material and in-depth reading can be found on [GitHub Pages](https://pawsey-internships.github.io/intro-unix-shell/).
 
 <a name="parallel-programming"></a>
 ## Parallel Programming :flags::computer:
