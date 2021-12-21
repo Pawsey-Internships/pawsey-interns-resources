@@ -1,4 +1,4 @@
-# Pawsey Intern Resource Collection
+# Pawsey Intern Resource Collection :books:
 < !-- *Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship resources page. Here you can find a library of all information and training materials that pertain to the internship program. * --/>
 
 ## Table of Contents
@@ -12,12 +12,12 @@
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
-	* [Filetransfer](#filetransfer)
+	* [Filetransfer](#filetransfer)  :email::airplane:
 * [Parallel Programming](#parallel-programming)
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
 	* [Parallel Programming with Python using the multiprocessing library](#parallel-programming-with-python-using-the-multiprocessing-library)
-* [Package Management](#package-management)
+* [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources)
@@ -43,7 +43,7 @@ Further Unix Features introduced in the subsequent [tutorial](https://youtu.be/B
 The material accompanying the tutorial is in our [GitHub Repository](https://github.com/Pawsey-Internships/more_with_bash).
 
 <a name="version-control"></a>
-### Version Control
+### Version Control :floppy_disk::books:
 Version control with Git is a powerful tool, as it enables collaboration and navigating to previous versions, which is crucial in software development. ([Tutorial Part 1](https://youtu.be/1Rpr0XLoRJM), [Tutorial Part 2](https://youtu.be/0ZF8OPUnxKw)).
 
 The material for the tutorial is published on our [GitHub Pages](https://pawsey-internships.github.io/version-control/).
@@ -63,17 +63,17 @@ A collection of resources for further reading about Pawsey supercomputing system
 [Topaz Quick Reference Sheet](https://support.pawsey.org.au/documentation/download/attachments/34017103/Topaz_Quick_R[…]_Guide.pdf?version=2&modificationDate=1601967569275&api=v2)
 
 <a name="using-visualstudio-on-a-pawsey-system"></a>
-#### Using VisualStudio on a Pawsey system
+#### Using VisualStudio on a Pawsey system 
 We explain how to use the VS Code IDE while running the developed code on the high performance computing cluster Topaz. ([Tutorial](https://youtu.be/TbYAedvDqAQ))
 
 <a name="using-jupyter-notebook-on-a-pawsey-system"></a>
-#### Using Jupyter Notebook on a Pawsey system
+#### Using Jupyter Notebook on a Pawsey system :ringed_planet::ledger:
 A demonstration on how to use Jupyter Notebook on Topaz using containers is provided in form of a [tutorial](https://youtu.be/qrz-Se2zwJ8).\
 Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)\
 You can choose the Jupyter Docker image most suited for your project from this [list](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 <a name="storing-variables-in-jupyter-notebook"></a>
-##### Storing Variables in Jupyter Notebook
+##### Storing Variables in Jupyter Notebook :floppy_disk::ringed_planet:
 When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file, is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
 Using Store Magic with Jupyter Notebook is demonstrated in our [tutorial](https://youtu.be/uT-EBq-kdvY).\
 Note for the tutorial: When using the WSL terminal on a windows machine, your .ipython directory is most likely not located in your Linux home directory, but in your windows home directory. This results in the following change of paths:\
@@ -100,7 +100,7 @@ $ notepad .ipython/profile_default/ipython_config.py
 
 
 <a name="filetransfer"></a>
-#### Filetransfer
+#### Filetransfer  :email::airplane:
 When working on a remote machine like the Pawsey system, often files need to be transferred between the local machine and the remote machine. One way of transferring and synchronising files is by using GitHub repositories and accessing the same repository from the local and from the remote machine. However, the filesize for GitHub is limited, therefore other options are recommended when transferring larger files.
 In the provided [tutorial](https://youtu.be/WgzqGHtGluQ), we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used with WSL (not with a GitBash/PowerShell/cmd terminal).\
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
@@ -121,8 +121,8 @@ The material used in the tutorial can be found in our [GitHub Repository](https:
 #### Parallel Programming with Python using the multiprocessing library
 The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
 
-<a name="package-management"></a>
-### Package Management
+<a name="package-management"></a> 
+### Package Management  :package::desktop_computer:
 
 <a name="using-containers-on-a-pawsey-system"></a>
 #### Using containers on a Pawsey system
@@ -131,7 +131,7 @@ An efficient way to use software and libraries that are not available on Pawsey 
 In-depth [documentation](https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
-#### Using Python Virtual Environment on a Pawsey system
+#### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
 As an alternative to using containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial](https://youtu.be/e4fBZIfndHc).
 
 Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
