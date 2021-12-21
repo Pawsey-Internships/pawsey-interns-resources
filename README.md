@@ -10,7 +10,7 @@
 * [Supercomputing](#supercomputing)
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
-	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system)
+	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)
 * [Parallel Programming](#parallel-programming)
@@ -24,8 +24,8 @@
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries)
 	* [Molecular Dynamics resources](#molecular-dynamics-resources)
 
-<a name="introduction"></a>
-### Introduction
+<a name="introduction"></a> 
+### Introduction :wave:
 < !-- *The introduction we discussed referring to the other sections as hyperlinks, that user can click when interested while reading intro.* --/>
 [Supercomputers](#supercomputing) play an important role and are used for a wide range of computationally intensive tasks in various fields, including quantum physics, molecular modelling, machine learning, climate research and many more. Supercomputers are generally accessed via the local command line using SSH, which requires [Unix](#unix) skills to navigate through the supercomputer and launch and monitor jobs on the cluster.
 
