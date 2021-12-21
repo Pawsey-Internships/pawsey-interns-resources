@@ -164,5 +164,5 @@ You can find examples of various Machine Learning (ML) model implementations usi
 
 <a name="molecular-dynamics-resources"></a>
 #### Molecular Dynamics Resources :dna:
-
-
+For GROMACS users/beginners [introductory tutorials](http://www.mdtutorials.com/gmx/) are available.
+*Tutorial 1: Lysozyme in Water* should be enough to get you started with the basics and provide you with a good foundation.
