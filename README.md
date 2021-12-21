@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction) :wave:
-* [Unix](#unix)
+* [Unix](#unix) :shell:
 	* [Introduction to Unix](#introduction-to-unix)
 	* [More Unix Features](#more-unix-features)
 * [Version Control](#version-control) :floppy_disk::books:
@@ -13,14 +13,14 @@
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)  :email::airplane:
-* [Parallel Programming](#parallel-programming)
+* [Parallel Programming](#parallel-programming) :flags::computer:
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
 	* [Parallel Programming with Python using the multiprocessing library](#parallel-programming-with-python-using-the-multiprocessing-library)
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
-* [Domain-specific knowledge resources](#domain-specific-knowledge-resources)
+* [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :school::student:👩🏾‍🎓:mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
 
@@ -107,7 +107,7 @@ If Filezilla is not installed on your local machine, you can download the applic
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
 <a name="parallel-programming"></a>
-## Parallel Programming
+## Parallel Programming :flags::computer:
 
 <a name="introduction-to-parallel-programming"></a>
 ### Introduction to Parallel Programming
