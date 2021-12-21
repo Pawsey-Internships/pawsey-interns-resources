@@ -106,6 +106,24 @@ In the provided [tutorial](https://youtu.be/WgzqGHtGluQ), we demonstrate how to 
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
+<a name="parallel-programming"></a>
+### Parallel Programming
+
+<a name="introduction-to-parallel-programming"></a>
+#### Introduction to Parallel Programming
+
+<a name="parallel-programming-with-python-and-mpi"></a>
+#### Parallel Programming with Python and MPI
+To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://youtu.be/90ZgZf7qWE8) using the example of Conway's Game of Life. 
+The material used in the tutorial can be found in our [GitHub Repository](https://github.com/Pawsey-Internships/mpi_and_python)
+
+<a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
+#### Parallel Programming with Python using the multiprocessing library
+The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
+
+<a name="package-management"></a>
+### Package Management
+
 <a name="using-containers-on-a-pawsey-system"></a>
 #### Using containers on a Pawsey system
 An efficient way to use software and libraries that are not available on Pawsey system, is to use a container. In this [tutorial](https://youtu.be/gxe2ER5mDm0), you find step-by-step instructions on how to built containers using [sylabs](https://sylabs.io/) and [singularity](https://support.pawsey.org.au/documentation/display/US/Singularity+modules+on+Pawsey+systems) on Topaz.
@@ -126,24 +144,6 @@ $ export PYTHONPATH=$MYGROUP/tutorial-env/lib/python3.6/site-packages
 If your virtual environment is called differently to *tutorial-env*, please replace accordingly.
 
 In the tutorial section where prompted to load the *fix.group.permissions.sh* file, the file does not need to be located in your current directory, but is already on the HPC, therefore typing the command as prompted in the video suffices, without prior downloading the file. More information on the fix group permissions Pawsey tool is provided in the [Pawsey Documentation](https://support.pawsey.org.au/documentation/display/US/Pawsey+File+Systems+and+their+Usage).
-
-<a name="parallel-programming"></a>
-### Parallel Programming
-
-<a name="introduction-to-parallel-programming"></a>
-#### Introduction to Parallel Programming
-
-<a name="parallel-programming-with-python-and-mpi"></a>
-#### Parallel Programming with Python and MPI
-To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://youtu.be/90ZgZf7qWE8) using the example of Conway's Game of Life. 
-The material used in the tutorial can be found in our [GitHub Repository](https://github.com/Pawsey-Internships/mpi_and_python)
-
-<a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
-#### Parallel Programming with Python using the multiprocessing library
-The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
-
-<a name="package-management"></a>
-### Package Management
 
 <a name="domain-specific-knowledge-resources"></a>
 ### Domain-specific knowledge resources
