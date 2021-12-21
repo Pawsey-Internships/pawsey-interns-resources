@@ -25,7 +25,7 @@
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
 
 <a name="introduction"></a> 
-### Introduction :wave:
+## Introduction :wave:
 < !-- *The introduction we discussed referring to the other sections as hyperlinks, that user can click when interested while reading intro.* --/>
 [Supercomputers](#supercomputing) play an important role and are used for a wide range of computationally intensive tasks in various fields, including quantum physics, molecular modelling, machine learning, climate research and many more. Supercomputers are generally accessed via the local command line using SSH, which requires [Unix](#unix) skills to navigate through the supercomputer and launch and monitor jobs on the cluster.
 
@@ -49,7 +49,7 @@ Version control with Git is a powerful tool, as it enables collaboration and nav
 The material for the tutorial is published on our [GitHub Pages](https://pawsey-internships.github.io/version-control/).
 
 <a name="supercomputing"></a>
-### Supercomputing
+### Supercomputing :collision::computer:
 
 <a name="introduction-to-supercomputing-and-pawsey"></a>
 #### Introduction to Supercomputing and Pawsey
