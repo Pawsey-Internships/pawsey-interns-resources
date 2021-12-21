@@ -43,13 +43,13 @@ Further Unix Features introduced in the subsequent [tutorial](https://youtu.be/B
 The material accompanying the tutorial is in our [GitHub Repository](https://github.com/Pawsey-Internships/more_with_bash).
 
 <a name="version-control"></a>
-### Version Control :floppy_disk::books:
+## Version Control :floppy_disk::books:
 Version control with Git is a powerful tool, as it enables collaboration and navigating to previous versions, which is crucial in software development. ([Tutorial Part 1](https://youtu.be/1Rpr0XLoRJM), [Tutorial Part 2](https://youtu.be/0ZF8OPUnxKw)).
 
 The material for the tutorial is published on our [GitHub Pages](https://pawsey-internships.github.io/version-control/).
 
 <a name="supercomputing"></a>
-### Supercomputing :collision::computer:
+## Supercomputing :collision::computer:
 
 <a name="introduction-to-supercomputing-and-pawsey"></a>
 #### Introduction to Supercomputing and Pawsey
@@ -107,7 +107,7 @@ If Filezilla is not installed on your local machine, you can download the applic
 Additional file transfer methods, and additional information to the introduced methods can be found in the [Pawsey Filetransfer documentation](https://support.pawsey.org.au/documentation/display/US/Transferring+Files)
 
 <a name="parallel-programming"></a>
-### Parallel Programming
+## Parallel Programming
 
 <a name="introduction-to-parallel-programming"></a>
 #### Introduction to Parallel Programming
@@ -122,7 +122,7 @@ The material used in the tutorial can be found in our [GitHub Repository](https:
 The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
 
 <a name="package-management"></a> 
-### Package Management  :package::desktop_computer:
+## Package Management  :package::desktop_computer:
 
 <a name="using-containers-on-a-pawsey-system"></a>
 #### Using containers on a Pawsey system
@@ -146,7 +146,7 @@ If your virtual environment is called differently to *tutorial-env*, please repl
 In the tutorial section where prompted to load the *fix.group.permissions.sh* file, the file does not need to be located in your current directory, but is already on the HPC, therefore typing the command as prompted in the video suffices, without prior downloading the file. More information on the fix group permissions Pawsey tool is provided in the [Pawsey Documentation](https://support.pawsey.org.au/documentation/display/US/Pawsey+File+Systems+and+their+Usage).
 
 <a name="domain-specific-knowledge-resources"></a>
-### Domain-specific knowledge resources
+## Domain-specific knowledge resources
 
 <a name="machine-learning-with-python-libraries"></a>
 #### Machine learning with Python libraries
@@ -163,6 +163,6 @@ You can find examples of various Machine Learning (ML) model implementations usi
 | ... | | |
 
 <a name="molecular-dynamics-resources"></a>
-#### Molecular Dynamics Resources
+#### Molecular Dynamics Resources :dna:
 
 
