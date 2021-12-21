@@ -125,13 +125,13 @@ The use of the [multiprocessing library](https://docs.python.org/3/library/multi
 ## Package Management  :package::desktop_computer:
 
 <a name="using-containers-on-a-pawsey-system"></a>
-#### Using containers on a Pawsey system
+### Using containers on a Pawsey system
 An efficient way to use software and libraries that are not available on Pawsey system, is to use a container. In this [tutorial](https://youtu.be/gxe2ER5mDm0), you find step-by-step instructions on how to built containers using [sylabs](https://sylabs.io/) and [singularity](https://support.pawsey.org.au/documentation/display/US/Singularity+modules+on+Pawsey+systems) on Topaz.
 
 In-depth [documentation](https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
-#### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
+### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
 As an alternative to using containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial](https://youtu.be/e4fBZIfndHc).
 
 Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
