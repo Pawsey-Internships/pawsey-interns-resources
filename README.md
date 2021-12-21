@@ -146,10 +146,10 @@ If your virtual environment is called differently to *tutorial-env*, please repl
 In the tutorial section where prompted to load the *fix.group.permissions.sh* file, the file does not need to be located in your current directory, but is already on the HPC, therefore typing the command as prompted in the video suffices, without prior downloading the file. More information on the fix group permissions Pawsey tool is provided in the [Pawsey Documentation](https://support.pawsey.org.au/documentation/display/US/Pawsey+File+Systems+and+their+Usage).
 
 <a name="domain-specific-knowledge-resources"></a>
-## Domain-specific knowledge resources
+## Domain-specific knowledge resources :school::student:👩🏾‍🎓:mortar_board::books:
 
 <a name="machine-learning-with-python-libraries"></a>
-#### Machine learning with Python libraries
+#### Machine learning with Python libraries :robot::brain::snake:
 
 In general, a great resource for Python-related tutorial is the [Python Engineer YouTube Channel](https://www.youtube.com/c/PythonEngineer/videos).
 You can find examples of various Machine Learning (ML) model implementations using PyTorch and Tensorflow, Data processing hacks, and other Python-related topics.
