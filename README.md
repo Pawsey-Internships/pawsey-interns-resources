@@ -6,8 +6,8 @@
 * [Unix](#unix)
 	* [Introduction to Unix](#introduction-to-unix)
 	* [More Unix Features](#more-unix-features)
-* [Version Control](#version-control)
-* [Supercomputing](#supercomputing)
+* [Version Control](#version-control) :floppy_disk::books:
+* [Supercomputing](#supercomputing) :collision::computer:
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
@@ -21,8 +21,8 @@
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources)
-	* [Machine learning with Python libraries](#machine-learning-with-python-libraries)
-	* [Molecular Dynamics resources](#molecular-dynamics-resources)
+	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
+	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
 
 <a name="introduction"></a> 
 ### Introduction :wave:
