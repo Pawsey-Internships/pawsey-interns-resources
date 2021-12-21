@@ -145,6 +145,30 @@ If your virtual environment is called differently to *tutorial-env*, please repl
 
 In the tutorial section where prompted to load the *fix.group.permissions.sh* file, the file does not need to be located in your current directory, but is already on the HPC, therefore typing the command as prompted in the video suffices, without prior downloading the file. More information on the fix group permissions Pawsey tool is provided in the [Pawsey Documentation](https://support.pawsey.org.au/documentation/display/US/Pawsey+File+Systems+and+their+Usage).
 
+When running your Pawsey Virtual Environment on the cluster using Slurm, please create a Slurm script following the below example (making adjustments in the resources requested as needed):
+~~~
+#!/bin/bash
+#SBATCH --job-name=test-job
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --cpus-per-task=1
+#SBATCH --partition=gpuq
+#SBATCH --account=internsXXXXX
+
+# COMMENT: change the --account flag to your own personal account.
+
+module load python
+
+# COMMENT: add the path (absolute path) to your virtual environment here.
+source $MYGROUP/tutorial-env1/bin/activate
+
+# COMMENT: call your python code here --> or use another command if you are not using python.
+python3 test.py
+
+# COMMENT: deactivate the virtual environment after the job is finished, such that the slurm script finishes properly.
+deactivate
+~~~
+
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
 
