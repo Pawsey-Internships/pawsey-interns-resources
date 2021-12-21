@@ -33,12 +33,12 @@
 ## Unix :shell:
 
 <a name="introduction-to-unix"></a>
-#### Introduction to Unix
+### Introduction to Unix
 We introduce the BASH command line interface in our [Introduction to unix tutorial](https://youtu.be/UnRBoqVmV9U), including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
 The supporting material and in-depth reading can be found on [GitHub Pages](https://pawsey-internships.github.io/intro-unix-shell/).
 
 <a name="more-unix-features"></a>
-#### More Unix Features
+### More Unix Features
 Further Unix Features introduced in the subsequent [tutorial](https://youtu.be/BjHSjtuRFnE) range from BASH scripts and functions to developing a user-defined 'del' command. Other topics addressed are regular expressions, if-statements, loops, and many more.
 The material accompanying the tutorial is in our [GitHub Repository](https://github.com/Pawsey-Internships/more_with_bash).
 
@@ -52,7 +52,7 @@ The material for the tutorial is published on our [GitHub Pages](https://pawsey-
 ## Supercomputing :collision::computer:
 
 <a name="introduction-to-supercomputing-and-pawsey"></a>
-#### Introduction to Supercomputing and Pawsey
+### Introduction to Supercomputing and Pawsey
 Pawsey has multiple clusters which can be used for computation, when local resources do not suffice, or when the need to use GPUs / parallelise code arises. An introduction on how to use Pawsey supercomputing resources, including an introduction to the Slurm Workload Manager is provided in this [workshop](https://youtu.be/qfSetBs09SE).
 
 The resources for the workshop are to be found in the [Pawsey GitHub Repository](https://github.com/PawseySC/Introductory-Supercomputing).
@@ -63,17 +63,17 @@ A collection of resources for further reading about Pawsey supercomputing system
 [Topaz Quick Reference Sheet](https://support.pawsey.org.au/documentation/download/attachments/34017103/Topaz_Quick_R[…]_Guide.pdf?version=2&modificationDate=1601967569275&api=v2)
 
 <a name="using-visualstudio-on-a-pawsey-system"></a>
-#### Using VisualStudio on a Pawsey system 
+### Using VisualStudio on a Pawsey system 
 We explain how to use the VS Code IDE while running the developed code on the high performance computing cluster Topaz. ([Tutorial](https://youtu.be/TbYAedvDqAQ))
 
 <a name="using-jupyter-notebook-on-a-pawsey-system"></a>
-#### Using Jupyter Notebook on a Pawsey system :ringed_planet::ledger:
+### Using Jupyter Notebook on a Pawsey system :ringed_planet::ledger:
 A demonstration on how to use Jupyter Notebook on Topaz using containers is provided in form of a [tutorial](https://youtu.be/qrz-Se2zwJ8).\
 Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)\
 You can choose the Jupyter Docker image most suited for your project from this [list](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 <a name="storing-variables-in-jupyter-notebook"></a>
-##### Storing Variables in Jupyter Notebook :floppy_disk::ringed_planet:
+#### Storing Variables in Jupyter Notebook :floppy_disk::ringed_planet:
 When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file, is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
 Using Store Magic with Jupyter Notebook is demonstrated in our [tutorial](https://youtu.be/uT-EBq-kdvY).\
 Note for the tutorial: When using the WSL terminal on a windows machine, your .ipython directory is most likely not located in your Linux home directory, but in your windows home directory. This results in the following change of paths:\
@@ -100,7 +100,7 @@ $ notepad .ipython/profile_default/ipython_config.py
 
 
 <a name="filetransfer"></a>
-#### Filetransfer  :email::airplane:
+### Filetransfer  :email::airplane:
 When working on a remote machine like the Pawsey system, often files need to be transferred between the local machine and the remote machine. One way of transferring and synchronising files is by using GitHub repositories and accessing the same repository from the local and from the remote machine. However, the filesize for GitHub is limited, therefore other options are recommended when transferring larger files.
 In the provided [tutorial](https://youtu.be/WgzqGHtGluQ), we demonstrate how to transfer files from a Pawsey cluster to a local machine using the desktop application Filezilla and using rsync from the command line. It has to be noted, that on a windows machine, rsync can only be used with WSL (not with a GitBash/PowerShell/cmd terminal).\
 If Filezilla is not installed on your local machine, you can download the application from the [Filezilla website](https://filezilla-project.org/index.php)
@@ -110,15 +110,15 @@ Additional file transfer methods, and additional information to the introduced m
 ## Parallel Programming
 
 <a name="introduction-to-parallel-programming"></a>
-#### Introduction to Parallel Programming
+### Introduction to Parallel Programming
 
 <a name="parallel-programming-with-python-and-mpi"></a>
-#### Parallel Programming with Python and MPI
+### Parallel Programming with Python and MPI
 To use a Message Passing Interface with Python, the mpi4py library is used. MPI is a way to program on distributed memory devices. Every parallel process is working in its own memory space, and overhead occurs when processes communicate with each other. A demonstration of using MPI in Python and on how to design parallelism to incur minimised communication overhead is demonstrated in our [tutorial](https://youtu.be/90ZgZf7qWE8) using the example of Conway's Game of Life. 
 The material used in the tutorial can be found in our [GitHub Repository](https://github.com/Pawsey-Internships/mpi_and_python)
 
 <a name="parallel-programming-with-python-using-the-multiprocessing-library"></a>
-#### Parallel Programming with Python using the multiprocessing library
+### Parallel Programming with Python using the multiprocessing library
 The use of the [multiprocessing library](https://docs.python.org/3/library/multiprocessing.html) offers an efficient approach to parallelise python code by side-stepping the Global Interpreter Lock (GLI).
 
 <a name="package-management"></a> 
