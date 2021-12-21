@@ -113,8 +113,7 @@ Additional file transfer methods, and additional information to the introduced m
 
 <a name="nimbus"></a>
 ### Cloud Computing with Nimbus :cloud::broom:
-We introduce the BASH command line interface in our [Introduction to unix tutorial](https://youtu.be/UnRBoqVmV9U), including basic commands. This tutorial enables you to navigate and alter your file system and files. In addition, we introduce the concept of pipes and finding things using grep and sed.\
-The supporting material and in-depth reading can be found on [GitHub Pages](https://pawsey-internships.github.io/intro-unix-shell/).
+We introduce Nimbus, our cloud computing system at Pawsey in our [Introduction to Nimbus Tutorial](https://www.youtube.com/watch?v=5yItRsdleE4&t=939s), including logging in, set up and fundamental operations. 
 
 <a name="parallel-programming"></a>
 ## Parallel Programming :flags::computer:
