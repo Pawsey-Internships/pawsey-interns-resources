@@ -199,7 +199,7 @@ A workshop core to the internship on everyday leadership provided by AIM WA cove
 <a name="unintended-consequences"></a>
 #### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow_flag:
 
-We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
+We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be unintentionally reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
