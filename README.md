@@ -7,6 +7,7 @@
 	* [Introduction to Unix](#introduction-to-unix)
 	* [More Unix Features](#more-unix-features)
 * [Version Control](#version-control) :floppy_disk::books:
+	* [Project Git Worflow on Topaz](#git-workflow) :open_file_folder::construction:
 * [Supercomputing](#supercomputing) :collision::computer:
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
@@ -49,6 +50,10 @@ The material accompanying the tutorial is in our [GitHub Repository](https://git
 Version control with Git is a powerful tool, as it enables collaboration and navigating to previous versions, which is crucial in software development. ([Tutorial Part 1](https://youtu.be/1Rpr0XLoRJM), [Tutorial Part 2](https://youtu.be/0ZF8OPUnxKw)).
 
 The material for the tutorial is published on our [GitHub Pages](https://pawsey-internships.github.io/version-control/).
+
+<a name="git-workflow"></a> 
+### Project Git Workflow on Topaz :open_file_folder::construction:
+We demonstrate how to use git commands to set up a project git workflow between your local system project directory and your project directory on a Pawsey HPC system. ([Tutorial](https://youtu.be/BC1eNIXY3tE))
 
 <a name="supercomputing"></a>
 ## Supercomputing :collision::computer:
@@ -194,6 +199,9 @@ You can find examples of various Machine Learning (ML) model implementations usi
 | [Tensorflow](https://www.tensorflow.org/learn) | | |
 | OpenCV | | |
 | Deep Lizzard | [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
+| (ggplot)[https://ggplot2.tidyverse.org/] | [Data visualisation in R with ggplot2 examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
+|  | |  |
+
 
 <a name="molecular-dynamics-resources"></a>
 #### Molecular Dynamics Resources :dna:
