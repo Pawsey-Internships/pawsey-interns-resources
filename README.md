@@ -1,7 +1,7 @@
+![alt text](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/pawsey-logo-blue.png)
+
 # Pawsey Intern Resource Collection :books:
 < !-- *Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship resources page. Here you can find a library of all information and training materials that pertain to the internship program. * --/>
-
-![alt text](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/pawsey-logo-blue.png)
 
 ## Table of Contents
 * [Introduction](#introduction) :wave:
