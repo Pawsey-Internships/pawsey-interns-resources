@@ -23,6 +23,8 @@
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
+* [Soft Skills](#soft-skills)
+	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
@@ -183,6 +185,14 @@ python3 test.py
 # COMMENT: deactivate the virtual environment after the job is finished, such that the slurm script finishes properly.
 deactivate
 ~~~
+
+<a name="soft-skills"></a>
+## Soft Skills
+
+<a name="aim-wa-leadership"></a>
+#### AIM WA Everyday Leadership Webinar
+
+A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://drive.google.com/file/d/12MBGD_GG-VYcL84brMWeexOXDprRqcQu/view?usp=sharing)).
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
