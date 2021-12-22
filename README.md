@@ -23,8 +23,9 @@
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
-* [Soft Skills](#soft-skills)
+* [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
+	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
@@ -108,7 +109,6 @@ alternatively, you can use the CMD command line, which when promoted will automa
 $ notepad .ipython/profile_default/ipython_config.py
 ~~~
 
-
 <a name="filetransfer"></a>
 ### Filetransfer  :email::airplane:
 When working on a remote machine like the Pawsey system, often files need to be transferred between the local machine and the remote machine. One way of transferring and synchronising files is by using GitHub repositories and accessing the same repository from the local and from the remote machine. However, the filesize for GitHub is limited, therefore other options are recommended when transferring larger files.
@@ -187,12 +187,17 @@ deactivate
 ~~~
 
 <a name="soft-skills"></a>
-## Soft Skills
+## Soft Skills :icecream::bow_and_arrow:
 
 <a name="aim-wa-leadership"></a>
 #### AIM WA Everyday Leadership Webinar
 
 A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://drive.google.com/file/d/12MBGD_GG-VYcL84brMWeexOXDprRqcQu/view?usp=sharing)).
+
+<a name="unintended-consequences"></a>
+#### Unintended Consequences, Diversity and Inclusion Workshop
+
+We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
@@ -225,6 +230,6 @@ Here we provide what we think are exemplary resources to save you upfront time a
 | Deep Lizzard | [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
 | [ggplot](https://ggplot2.tidyverse.org/) | [Data visualisation in R with ggplot2 examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
 | Google Datasets | [Publicly available data sets from Google](https://datasetsearch.research.google.com/) | Search for a data set for your project in Google's purpose fit data set search engine. |
-| Choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numeric, categorical, time series and how many variables you are trying to visualize |
+| Choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numerical, categorical, time series and how many variables you are trying to visualize |
 |  |  |  |
 |  |  |  |
