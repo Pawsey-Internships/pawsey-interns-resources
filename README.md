@@ -206,13 +206,15 @@ For GROMACS users/beginners [introductory tutorials](http://www.mdtutorials.com/
 *Tutorial 1: Lysozyme in Water* should be enough to get you started with the basics and provide you with a good foundation.
 
 <a name="additional-resources"></a>
-## Additional resources to get ahead with your Project
+## Additional Resources to Get Ahead with your Project :smiley:
 
-Here we provide what we think are exemplary resources to save you upfront time and energy. Please feel free to provide us additional suggestions of resources you found particularly useful at jordan.makins@csiro.au, melissa.speer@csiro.au or edric.matwiejew@csiro.au/
+Here we provide what we think are exemplary resources to save you upfront time and energy. Please feel free to provide us additional suggestions of resources you found particularly useful at jordan.makins@csiro.au, melissa.speer@csiro.au or edric.matwiejew@csiro.au.
 
 | Resource | Link to Content | Description |
 | ----------- | :----------- |:-----------|
 | Deep Lizzard | [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
 | [ggplot](https://ggplot2.tidyverse.org/) | [Data visualisation in R with ggplot2 examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
 | Google Datasets | [Publicly available data sets from Google](https://datasetsearch.research.google.com/) | Search for a data set for your project in Google's purpose fit data set search engine. |
+| Choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numeric, categorical, time series and how many variables you are trying to visualize |
+|  |  |  |
 |  |  |  |
