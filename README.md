@@ -195,7 +195,7 @@ deactivate
 A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://drive.google.com/file/d/12MBGD_GG-VYcL84brMWeexOXDprRqcQu/view?usp=sharing)).
 
 <a name="unintended-consequences"></a>
-#### Unintended Consequences, Diversity and Inclusion Workshop
+#### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow-flag:
 
 We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
 
