@@ -26,6 +26,7 @@
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
+* [Additional resources to get ahead](#additional-resources) :smiley:
 
 <a name="introduction"></a> 
 ## Introduction :wave:
@@ -198,12 +199,20 @@ You can find examples of various Machine Learning (ML) model implementations usi
 | [PyTorch](https://pytorch.org/docs/stable/)  |[DeepLearning with PyTorch YouTube Training](https://www.youtube.com/watch?v=c36lUUr864M) | |
 | [Tensorflow](https://www.tensorflow.org/learn) | | |
 | OpenCV | | |
-| Deep Lizzard | [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
-| (ggplot)[https://ggplot2.tidyverse.org/] | [Data visualisation in R with ggplot2 examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
-|  | |  |
-
 
 <a name="molecular-dynamics-resources"></a>
 #### Molecular Dynamics Resources :dna:
 For GROMACS users/beginners [introductory tutorials](http://www.mdtutorials.com/gmx/) are available.
 *Tutorial 1: Lysozyme in Water* should be enough to get you started with the basics and provide you with a good foundation.
+
+<a name="additional-resources"></a>
+## Additional resources to get ahead with your Project
+
+Here we provide what we think are exemplary resources to save you upfront time and energy. Please feel free to provide us additional suggestions of resources you found particularly useful at jordan.makins@csiro.au, melissa.speer@csiro.au or edric.matwiejew@csiro.au/
+
+| Resource | Link to Content | Description |
+| ----------- | :----------- |:-----------|
+| Deep Lizzard | [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
+| [ggplot](https://ggplot2.tidyverse.org/) | [Data visualisation in R with ggplot2 examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
+| Google Datasets | [Publicly available data sets from Google](https://datasetsearch.research.google.com/) | Search for a data set for your project in Google's purpose fit data set search engine. |
+|  |  |  |
