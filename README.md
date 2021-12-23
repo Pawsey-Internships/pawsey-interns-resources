@@ -1,7 +1,7 @@
 ![alt text](https://www.olcf.ornl.gov/wp-content/uploads/2019/02/pawsey-logo-blue.png)
 
 # Pawsey Intern Resource Collection :books:
-< !-- *Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship resources page. Here you can find a library of all information and training materials that pertain to the internship program. * --/>
+Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship resources page. Here you can find a library of all information and training materials that pertain to the internship program.
 
 ## Table of Contents
 * [Introduction](#introduction) :wave:
@@ -35,8 +35,7 @@
 
 <a name="introduction"></a> 
 ## Introduction :wave:
-< !-- *The introduction we discussed referring to the other sections as hyperlinks, that user can click when interested while reading intro.* --/>
-[Supercomputers](#supercomputing) play an important role and are used for a wide range of computationally intensive tasks in various fields, including quantum physics, molecular modelling, machine learning, climate research and many more. Supercomputers are generally accessed via the local command line using SSH, which requires [Unix](#unix) skills to navigate through the supercomputer and launch and monitor jobs on the cluster.
+[Supercomputers](#supercomputing) play an important role and are used for a wide range of computationally intensive tasks in various fields, including quantum physics, molecular modelling, machine learning, climate research and many more. The most common supercomputers provided by Pawsey are Topaz (GPU), Magnus (CPU), and Zeus (CPU). Supercomputers are generally accessed via the local command line using SSH, which requires [Unix](#unix) skills to navigate through the supercomputer and launch and monitor jobs on the cluster. A major advantage of using a cluster is the possibility to speed up computations by using [Parallel Programming](#parallel-programming). To keep track of the changes made over the course of a project using [Version Control](#version-control) is a useful tool. In addition, there are various approaches for [Filetransfer](#filetransfer) of data bewteen a supercomputer and your local machine. You can find a variety of libraries and programs as modules on Pawsey supercomputers. If your required resource is not available as a module, you can use a [container](#using-containers-on-a-pawsey-system) or when working with Python you can use a [Python Virtual Environment](#using-python-virtual-environment-on-a-pawsey-system). For projects with the need for a specifically set up instance, it is recommended to use another Pawsey resource called [Nimbus](#nimbus). Depending on your research topic, your use of the Pawsey resources will differ, therefore we also provide you with [Domain-specific knowledge resources](#domain-specific-knowledge-resources).
 
 <a name="unix"></a>
 ## Unix :shell:
