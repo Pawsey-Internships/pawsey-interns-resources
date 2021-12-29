@@ -10,6 +10,7 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [More Unix Features](#more-unix-features)
 * [Version Control](#version-control) :floppy_disk::books:
 	* [Project Git Worflow on Topaz](#git-workflow) :open_file_folder::construction:
+	* [Setting up GitHub CLI](#gh-cli) 
 * [Supercomputing](#supercomputing) :collision::computer:
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
@@ -63,6 +64,22 @@ The material for the tutorial is published on our [GitHub Pages](https://pawsey-
 <a name="git-workflow"></a> 
 ### Project Git Workflow on Topaz :open_file_folder::construction:
 We demonstrate how to use git commands to set up a project git workflow between your local system project directory and your project directory on a Pawsey HPC system. ([Tutorial](https://youtu.be/BC1eNIXY3tE))
+
+<a name="gh-cli"></a> 
+### Setting up GitHub CLI on a Pawsey HPC
+
+Bring GitHub to your terminal on Topaz, Magnus, Zeus.. etc: 
+
+~~~
+$ cd $MYGROUP
+$ VERSION=2.3.0
+$ curl -sSL https://github.com/cli/cli/releases/download/v${VERSION}/gh_${VERSION}_linux_amd64.tar.gz -o gh_${VERSION}_linux_amd64.tar.gz
+$ tar xvf gh_${VERSION}_linux_amd64.tar.gz
+$ cd gh_${VERSION}_linux_amd64/bin
+$ ./gh auth login
+~~~
+
+[Additional supporting documentaion](https://cli.github.com/)
 
 <a name="supercomputing"></a>
 ## Supercomputing :collision::computer:
