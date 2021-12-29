@@ -29,6 +29,8 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 * [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
+* [Communication and Presentation](#communication-presentation) :speaking_head_in_silhouette::gift:
+	* [Posters and Internship Videos](#posters-videos) :video_camera: :page_facing_up:
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
@@ -198,7 +200,15 @@ deactivate
 <a name="aim-wa-leadership"></a>
 #### AIM WA Everyday Leadership Webinar
 
-A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://drive.google.com/file/d/12MBGD_GG-VYcL84brMWeexOXDprRqcQu/view?usp=sharing)).
+A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://pawsey.org.au/alumni/)).
+
+<a name="communication-presentation"></a>
+## Communication and Presentation :speaking_head_in_silhouette::gift:
+
+<a name="posters-videos"></a>
+#### Posters and Internship Videos :video_camera: :page_facing_up:
+
+Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawsey.org.au/alumni/)), click on an image of an alumni of interest to inspect their poster and internship video for benchmarking.
 
 <a name="unintended-consequences"></a>
 #### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow_flag:
@@ -209,7 +219,7 @@ We explore what it means to consider unintended consequences resulting from rese
 ## Domain-specific knowledge resources :mortar_board::books:
 
 <a name="machine-learning-with-python-libraries"></a>
-#### Machine learning with Python libraries :robot::brain::snake:
+#### Machine learning with Python libraries :robot::snake:
 
 In general, a great resource for Python-related tutorial is the [Python Engineer YouTube Channel](https://www.youtube.com/c/PythonEngineer/videos).
 You can find examples of various Machine Learning (ML) model implementations using PyTorch and Tensorflow, Data processing hacks, and other Python-related topics.
