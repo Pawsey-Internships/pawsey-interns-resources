@@ -29,7 +29,7 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 * [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
-* [Communication and Presentation](#communication-presentation) :speaking_head_in_silhouette::gift:
+* [Communication and Presentation](#communication-presentation) :speaking_head::gift:
 	* [Posters and Internship Videos](#posters-videos) :video_camera: :page_facing_up:
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::brain::snake:
@@ -203,7 +203,7 @@ deactivate
 A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://pawsey.org.au/alumni/)).
 
 <a name="communication-presentation"></a>
-## Communication and Presentation :speaking_head_in_silhouette::gift:
+## Communication and Presentation :speaking_head::gift:
 
 <a name="posters-videos"></a>
 #### Posters and Internship Videos :video_camera: :page_facing_up:
