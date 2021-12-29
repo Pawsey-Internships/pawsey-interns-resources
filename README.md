@@ -25,6 +25,7 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [Efficient parallelisation of Python Machine learning libraries](efficient-parallelisation-of-python-machine-learning-libraries)
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
+		* [Install additional Python packages in a container](#additional-python-packages-container)
 	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
 * [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
@@ -155,6 +156,11 @@ An efficient way to use software and libraries that are not available on Pawsey 
 
 In-depth [documentation](https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
 
+<a name="additional-python-packages-container"></a>
+#### Installing additional python packages in a container
+
+See how to install additional python packages as needed in a container [Video Demo](https://youtu.be/EDnngLOgDvY).
+
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
 ### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
 As an alternative to using containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial](https://youtu.be/e4fBZIfndHc).
@@ -237,7 +243,7 @@ For GROMACS users/beginners [introductory tutorials](http://www.mdtutorials.com/
 *Tutorial 1: Lysozyme in Water* should be enough to get you started with the basics and provide you with a good foundation.
 
 <a name="additional-resources"></a>
-## Additional Resources to Get Ahead with your Project :smiley:
+## Additional resources to get ahead with your project :smiley:
 
 Here we provide what we think are exemplary resources to save you upfront time and energy. Please feel free to provide us additional suggestions of resources you found particularly useful at jordan.makins@csiro.au, melissa.speer@csiro.au or edric.matwiejew@csiro.au.
 
