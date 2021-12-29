@@ -243,9 +243,10 @@ Here we provide what we think are exemplary resources to save you upfront time a
 
 | Resource | Link to Content | Description |
 | ----------- | :----------- |:-----------|
-| Machine Learning & Deep Learning Fundamentals | [Deep Lizzard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
-| [Data visualisation in R with examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | [ggplot](https://ggplot2.tidyverse.org/) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
 | Google Datasets | [Publicly available data sets from Google](https://datasetsearch.research.google.com/) | Search for a data set for your project in Google's data set search engine. |
-| Help choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numerical, categorical, time series and how many variables you are trying to visualize |
 | Python Basics for Data Science (IBM) | [Video by edX](https://www.youtube.com/watch?v=JC3urnvKanI&t=3s)  | A 19 part course available on YouTube. edX is an American open source online course provider created by Harvard and MIT. |
+| Machine Learning & Deep Learning Fundamentals | [Deep Lizzard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)| This series explains concepts that are fundamental to deep learning and artificial neural networks for beginners. |
+| Help choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numerical, categorical or time series and also based on how many variables you are trying to visualize |
+| [Data visualisation in R with examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | [ggplot](https://ggplot2.tidyverse.org/) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
+| Data visualisation in Python with examples | [matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html) | An introduction and tutorial for the pyplot interface. |
 |  |  |  |
