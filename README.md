@@ -31,8 +31,9 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 * [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
-* [Communication and Presentation](#communication-presentation) :speaking_head::gift:
+* [Communication, Visualisation and Presentation](#communication-presentation) :speaking_head::gift:
 	* [Posters and Internship Videos](#posters-videos) :video_camera: :page_facing_up:
+	* [Intro to Tableau for Data Visualisation](#intro-tableau) :bar_chart::chart_with_upwards_trend:
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::snake:
 	* [Molecular Dynamics resources](#molecular-dynamics-resources) :dna:
@@ -68,7 +69,7 @@ We demonstrate how to use git commands to set up a project git workflow between 
 <a name="gh-cli"></a> 
 ### Setting up GitHub CLI on a Pawsey HPC
 
-Bring GitHub to your terminal on Topaz, Magnus, Zeus.. etc: 
+Bring GitHub to your terminal on Topaz, Magnus, Zeus etc: 
 
 ~~~
 $ cd $MYGROUP
@@ -221,12 +222,12 @@ deactivate
 ## Soft Skills :icecream::bow_and_arrow:
 
 <a name="aim-wa-leadership"></a>
-#### AIM WA Everyday Leadership Webinar
+### AIM WA Everyday Leadership Webinar
 
 A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://pawsey.org.au/alumni/)).
 
 <a name="unintended-consequences"></a>
-#### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow_flag:
+### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow_flag:
 
 We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be unintentionally reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
 
@@ -234,9 +235,13 @@ We explore what it means to consider unintended consequences resulting from rese
 ## Communication and Presentation :speaking_head::gift:
 
 <a name="posters-videos"></a>
-#### Posters and Internship Videos :video_camera: :page_facing_up:
+### Posters and Internship Videos :video_camera: :page_facing_up:
 
 Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawsey.org.au/alumni/)), click on an image of an alumni of interest to inspect their poster and internship video for benchmarking.
+
+<a name="intro-tableau"></a>
+### Introduction to Tableau for Data Visualisation :bar_chart::chart_with_upwards_trend:
+Explore how to use Tableau for effective visualisation of Project results. Tableau can facilitate creation of many visualisation including the staple and ever reliable line charts and bar plots ([Intro to Tableau](https://www.youtube.com/watch?v=E833ClKqluM))
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
