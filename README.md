@@ -27,12 +27,12 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 		* [Install additional Python packages in a container](#additional-python-packages-container)
-	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system)
+	* [Using Python Virtual Environment on a Pawsey system](#using-python-virtual-environment-on-a-pawsey-system) :snake::leaves:
 * [Soft Skills](#soft-skills) :icecream::bow_and_arrow:
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
 * [Communication, Visualisation and Presentation](#communication-presentation) :speaking_head::gift:
-	* [Posters and Internship Videos](#posters-videos) :video_camera: :page_facing_up:
+	* [Past Intern Posters and Videos](#posters-videos) :video_camera: :page_facing_up:
 	* [Intro to Tableau for Data Visualisation](#intro-tableau) :bar_chart::chart_with_upwards_trend:
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::snake:
@@ -235,7 +235,7 @@ We explore what it means to consider unintended consequences resulting from rese
 ## Communication and Presentation :speaking_head::gift:
 
 <a name="posters-videos"></a>
-### Posters and Internship Videos :video_camera: :page_facing_up:
+### Past Intern Posters and Videos :video_camera: :page_facing_up:
 
 Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawsey.org.au/alumni/)), click on an image of an alumni of interest to inspect their poster and internship video for benchmarking.
 
