@@ -241,7 +241,7 @@ Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawse
 
 <a name="intro-tableau"></a>
 ### Introduction to Tableau for Data Visualisation :bar_chart::chart_with_upwards_trend:
-Explore how to use Tableau for effective visualisation of your project results. Tableau can facilitate creation of many visualisations including aesthetically pleasing line charts and bar plots ([Intro to Tableau](https://www.youtube.com/watch?v=E833ClKqluM))
+Explore how to use Tableau for effective visualisation of your project results. Tableau can facilitate creation of many effective visualisations including line charts and bar plots ([Intro to Tableau](https://www.youtube.com/watch?v=E833ClKqluM)).
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
