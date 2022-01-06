@@ -277,4 +277,5 @@ Here we provide what we think are exemplary resources to save you upfront time a
 | Help choosing a Data Viz | [data-to-viz.com](https://www.data-to-viz.com/) | Select a data visualisation depending on whether your data is numerical, categorical or time series and also based on how many variables you are trying to visualize |
 | [Data visualisation in R with examples](https://rkabacoff.github.io/datavis/IntroGGPLOT.html) | [ggplot](https://ggplot2.tidyverse.org/) | ggplot2 is a data visualisation package in the R programming language. Please refer to the tidyverse documentation and sample graphs in the links provided. |
 | Data visualisation in Python with examples | [matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html) | An introduction and tutorial for the pyplot interface. |
-|  |  |  |
+| Backpropagation and Gradient Descent | [Interactive Demo](https://remykarem.github.io/backpropagation-demo/) | Understand backprogation through a stepwise gradient descent example on a simple linear regression problem. Be sure to click on "remarks" for the mathematics as you click the "next" button to follow along. |
+| | | |
