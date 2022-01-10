@@ -243,6 +243,8 @@ Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawse
 ### Introduction to Tableau for Data Visualisation :bar_chart::chart_with_upwards_trend:
 Explore how to use Tableau for effective visualisation of your project results. Tableau can facilitate creation of many effective visualisations including line charts and bar plots ([Intro to Tableau](https://www.youtube.com/watch?v=E833ClKqluM)).
 
+To sign up for s free student account on Tableau, please visit [Tableau for Students](https://www.tableau.com/academic/students), click the "get tableau for free" button and fill in the form with your personal and university information.
+
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
 
