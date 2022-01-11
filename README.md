@@ -232,7 +232,7 @@ A workshop core to the internship on everyday leadership provided by AIM WA cove
 We explore what it means to consider unintended consequences resulting from research and industry, the implications this has both in the workplace and in the community, how historical bias can be unintentionally reinforced with data and algorithms, and how we can play our part by championing the principles of diversity and inclusion through our work and in the workplace. ([Unintended Consequences Workshop](https://drive.google.com/file/d/1c1pSSEBmRLViPNQdl2xcR0Lg5kLrmNtG/view?usp=sharing)).
 
 <a name="communication-presentation"></a>
-## Communication and Presentation :speaking_head::gift:
+## Communication, Visualisation and Presentation :speaking_head::gift:
 
 <a name="posters-videos"></a>
 ### Past Intern Posters and Videos :video_camera: :page_facing_up:
@@ -244,6 +244,12 @@ Once onto the web page for the ([Alumni Posters and Intern Videos](https://pawse
 Explore how to use Tableau for effective visualisation of your project results. Tableau can facilitate creation of many effective visualisations including line charts and bar plots ([Intro to Tableau](https://www.youtube.com/watch?v=E833ClKqluM)).
 
 To sign up for s free student account on Tableau, please visit [Tableau for Students](https://www.tableau.com/academic/students), click the "get tableau for free" button and fill in the form with your personal and university information.
+
+<a name="remote-visualisation"></a>
+### Remote Visualisation 
+Check out our [remote visualisation training video](https://drive.google.com/file/d/1QWxUpM84aAsgr6qQsz2HnF-28KsI0wfz/view?usp=sharing), where we:
+* Explore the method of running your visualisation workflow on a remote machine
+* Create an interative desktop on an HPC system
 
 <a name="domain-specific-knowledge-resources"></a>
 ## Domain-specific knowledge resources :mortar_board::books:
