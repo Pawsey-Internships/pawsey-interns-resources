@@ -224,7 +224,7 @@ deactivate
 <a name="aim-wa-leadership"></a>
 ### AIM WA Everyday Leadership Webinar
 
-A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://pawsey.org.au/alumni/)).
+A workshop core to the internship on everyday leadership provided by AIM WA covering emotional intelligence, traits of succesful leaders in modern society, and the changing dynamics of leadership. ([Webinar](https://drive.google.com/file/d/12MBGD_GG-VYcL84brMWeexOXDprRqcQu/view?usp=sharing)).
 
 <a name="unintended-consequences"></a>
 ### Unintended Consequences, Diversity and Inclusion Workshop :warning::rainbow_flag:
