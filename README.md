@@ -32,7 +32,9 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [AIM WA Everyday Leadership Webinar](#aim-wa-leadership)
 	* [Unintended Consequences, Diversity and Inclusion Workshop](#unintended-consequences)
 * [Communication, Visualisation and Presentation](#communication-presentation) :speaking_head::gift:
-	* [Past Intern Posters and Videos](#posters-videos) :video_camera: :page_facing_up:
+	* [Video Making Demo](#video-making) :video_camera::microphone:
+	* [Scientific Communications](#scientific-comms) :microscope::speaking_head:
+	* [Past Intern Posters and Videos](#posters-videos) :page_facing_up::video_camera: 
 	* [Intro to Tableau for Data Visualisation](#intro-tableau) :bar_chart::chart_with_upwards_trend:
 * [Domain-specific knowledge resources](#domain-specific-knowledge-resources) :mortar_board::books:
 	* [Machine learning with Python libraries](#machine-learning-with-python-libraries) :robot::snake:
@@ -233,6 +235,17 @@ We explore what it means to consider unintended consequences resulting from rese
 
 <a name="communication-presentation"></a>
 ## Communication, Visualisation and Presentation :speaking_head::gift:
+
+<a name="video-making"></a>
+### Video Making Demo :video_camera::microphone:
+
+We investigate various programs and strategies for delivering an effective video production to communicate your body of work from the internshp in the ([Video Making Demo](https://www.dropbox.com/s/1eerd69eosnu4qc/Interns%202022%20-%20video%20edit%20final.mp4?dl=0)). Here are the associated [slides](https://docs.google.com/presentation/d/1FE4IbxT_8NvOrVWPbbk9116mi39PmYwr/edit?usp=sharing&ouid=115599649402044124899&rtpof=true&sd=true).
+
+<a name="scientific-comms"></a>
+### Scientific Communications :microscope::speaking_head:
+
+Please join us to review best practices for pitching yourself and your work to an audience at our ([Scientifc Communications Training](https://drive.google.com/drive/folders/1LXAFRI4LlblVZlbXLE0mk-fM_Cnpm2_S). Here are the associated presentation [slides](https://www.dropbox.com/scl/fi/wshmqjpph2w0vp4p7n910/Interns-2022-Communication-Training.pptx?dl=0&rlkey=ny7zb2uax9o3bknlszddw2e6u).
+
 
 <a name="posters-videos"></a>
 ### Past Intern Posters and Videos :video_camera: :page_facing_up:
