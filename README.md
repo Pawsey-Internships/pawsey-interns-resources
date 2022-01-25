@@ -15,6 +15,7 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
 	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
+		* [Installing Additional Python Packages to Jupyter Notebook](#additional-pkgs-jn)
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
 	* [Filetransfer](#filetransfer)  :email::airplane:
 * [Cloud Computing](#cloud-computing) :cloud::computer:
@@ -109,6 +110,10 @@ Further information, and the SLURM script used in the tutorial can be found in t
 You can choose the Jupyter Docker image most suited for your project from this [list](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
 <a name="storing-variables-in-jupyter-notebook"></a>
+#### Installing Additional Python Packages to a Jupyter Notebook
+Please inspect this [Video Demo](https://youtu.be/S_I2e1fwcAA) to see how to install additional Python packages in your *.sif file for Juypyter Notebook; where you may be encountering an OSError when trying to use other methods to accomplish this.
+
+<a name="storing-variables-in-jupyter-notebook"></a>
 #### Storing Variables in Jupyter Notebook :floppy_disk::ringed_planet:
 When you run computationally intensive code in your Jupyter Notebook, it unnecessarily uses up resources, when you re-run it every time, in order to run subsequent code. Therefore, it is recommended to save intermediary results. One option would be to save your intermediate output to file, and re-load it when continuing your work. Another option which does not require storing to file, is introduced in this tutorial. The ipython feature used is called [StoreMagic](https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html).\
 Using Store Magic with Jupyter Notebook is demonstrated in our [tutorial](https://youtu.be/uT-EBq-kdvY).\
@@ -185,7 +190,7 @@ See how to install additional python packages as needed in a container [Video De
 ### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
 As an alternative to using containers when wanting to install various python libraries that are not available under modules, a Python Virtual Environment can be used. The set up and usage of a Python Virtual Environment is explained in this [tutorial](https://youtu.be/e4fBZIfndHc).
 
-Further information on Python Virtual enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
+Further information on Python Virtual Enviornments can be found in the official [documentation](https://docs.python.org/3/tutorial/venv.html), and further information on symlinks can be found [here](https://dashdash.io/1/ln).
 
 Notes to the tutorial:\
 In case your PYTHONPATH environment variable is not automatically set to the python version in your virtual enviornment, please manually set your PYTHONPATH as follows:
