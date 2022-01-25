@@ -179,7 +179,7 @@ In-depth [documentation](https://support.pawsey.org.au/documentation/download/at
 <a name="additional-python-packages-container"></a>
 #### Installing additional python packages in a container
 
-See how to install additional python packages as needed in a container [Video Demo](https://youtu.be/EDnngLOgDvY).
+See how to install additional python packages as needed in a container [Video Demo](https://youtu.be/9c-pMefwTok) and [supporting documentation](https://support.pawsey.org.au/documentation/display/US/Basics+of+Singularity#BasicsofSingularity-Bindmountinghostdirectories).
 
 <a name="using-python-virtual-environment-on-a-pawsey-system"></a>
 ### Using Python Virtual Environment on a Pawsey system  :snake::leaves:
