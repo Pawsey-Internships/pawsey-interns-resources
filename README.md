@@ -177,7 +177,7 @@ The use of the [multiprocessing library](https://docs.python.org/3/library/multi
 
 <a name="using-containers-on-a-pawsey-system"></a>
 ### Using containers on a Pawsey system
-An efficient way to use software and libraries that are not available on Pawsey system, is to use a container. In this [tutorial](https://youtu.be/gxe2ER5mDm0), you find step-by-step instructions on how to built containers using [sylabs](https://sylabs.io/) and [singularity](https://support.pawsey.org.au/documentation/display/US/Singularity+modules+on+Pawsey+systems) on Topaz.
+An efficient way to use software and libraries that are not available on Pawsey system, is to use a container. In this [tutorial](https://youtu.be/gxe2ER5mDm0), you find step-by-step instructions on how to build containers using [sylabs](https://sylabs.io/) and [singularity](https://support.pawsey.org.au/documentation/display/US/Singularity+modules+on+Pawsey+systems) on Topaz.
 
 In-depth [documentation](https://support.pawsey.org.au/documentation/download/attachments/2162899/Overview%20of%20Containers%20in%20HPC.pdf?api=v2) providing an overview of Containers in HPC at Pawsey might be useful for further reading in addition to the tutorial.
 
@@ -244,12 +244,12 @@ We explore what it means to consider unintended consequences resulting from rese
 <a name="video-making"></a>
 ### Video Making Demo :video_camera::microphone:
 
-We investigate various programs and strategies for delivering an effective video production to communicate your body of work from the internshp in the ([Video Making Demo](https://www.dropbox.com/s/1eerd69eosnu4qc/Interns%202022%20-%20video%20edit%20final.mp4?dl=0)). Here are the associated [slides](https://docs.google.com/presentation/d/1FE4IbxT_8NvOrVWPbbk9116mi39PmYwr/edit?usp=sharing&ouid=115599649402044124899&rtpof=true&sd=true).
+We investigate various programs and strategies for delivering an effective video production to communicate your body of work from the internshp in the ([Video Making Demo](https://drive.google.com/file/d/1CrMLAIEiRzxaUgqJ4sxHvHC-59IhP1Ji/view?usp=sharing)). Here are the associated [slides](https://docs.google.com/presentation/d/1FE4IbxT_8NvOrVWPbbk9116mi39PmYwr/edit?usp=sharing&ouid=115599649402044124899&rtpof=true&sd=true).
 
 <a name="scientific-comms"></a>
 ### Scientific Communications :microscope::speaking_head:
 
-Please join us to review best practices for pitching yourself and your work to an audience at our ([Scientifc Communications Training](https://drive.google.com/drive/folders/1LXAFRI4LlblVZlbXLE0mk-fM_Cnpm2_S). Here are the associated presentation [slides](https://www.dropbox.com/scl/fi/wshmqjpph2w0vp4p7n910/Interns-2022-Communication-Training.pptx?dl=0&rlkey=ny7zb2uax9o3bknlszddw2e6u).
+Please join us to review best practices for pitching yourself and your work to an audience at our ([Scientifc Communications Training](https://drive.google.com/file/d/1-feWAeeHEKbUn9CGHFr90qaBo54CnsO0/view?usp=sharing). Here are the associated presentation [slides](https://www.dropbox.com/scl/fi/wshmqjpph2w0vp4p7n910/Interns-2022-Communication-Training.pptx?dl=0&rlkey=ny7zb2uax9o3bknlszddw2e6u).
 
 
 <a name="posters-videos"></a>
