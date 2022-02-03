@@ -13,7 +13,6 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [Setting up GitHub CLI](#gh-cli) 
 * [Supercomputing](#supercomputing) :collision::computer:
 	* [Introduction to Supercomputing and Pawsey](#introduction-to-supercomputing-and-pawsey)
-	* [Using VisualStudio on a Pawsey system](#using-visualstudio-on-a-pawsey-system)
 	* [Using Jupyter Notebook on a Pawsey system](#using-jupyter-notebook-on-a-pawsey-system) :ringed_planet::ledger:
 		* [Installing Additional Python Packages to Jupyter Notebook](#additional-pkgs-jn)
 		* [Storing Variables in Jupyter Notebook](#storing-variables-in-jupyter-notebook)
@@ -109,7 +108,7 @@ A demonstration on how to use Jupyter Notebook on Topaz using containers is prov
 Further information, and the SLURM script used in the tutorial can be found in the [Pawsey Jupyter Notebook documentation](https://support.pawsey.org.au/documentation/display/US/Running+GPU+enabled+JupyterHub+on+Topaz+and+Zeus+with+Singularity)\
 You can choose the Jupyter Docker image most suited for your project from this [list](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 
-<a name="storing-variables-in-jupyter-notebook"></a>
+<a name="additional-pkgs-jn"></a>
 #### Installing Additional Python Packages to a Jupyter Notebook
 Please inspect this [Video Demo](https://youtu.be/S_I2e1fwcAA) to see how to install additional Python packages in your *.sif file for Juypyter Notebook; where you may be encountering an OSError when trying to use other methods to accomplish this.
 
