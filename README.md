@@ -169,6 +169,37 @@ The use of the [multiprocessing library](https://docs.python.org/3/library/multi
 
 <a name="efficient-parallelisation-of-python-machine-learning-libraries"></a>
 ### Efficient parallelisation of Python Machine learning libraries
+Machine Learning libraries can be used across multiple GPUs using [Horovod](https://horovod.ai/). Horovod can be used in combination with TensorFlow, Keras and PyTorch. Pawsey provides an official set of [Instructions](https://support.pawsey.org.au/documentation/display/US/Distributed+Tensorflow+on+Topaz) on how to use Horovd on Topaz.
+A short set of instructions is outlined below:
+1. Download the Horovod image
+~~~
+$ module load singularity
+$ singularity pull docker://nvcr.io/nvidia/tensorflow:20.03-tf2-py3
+~~~
+
+2. adjust your Python file to incorporate parallelisation via Horovod.
+
+3. Adjust your SLURM script similarily as the below sample script:
+~~~
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=2
+#SBATCH --cpus-per-task=1
+#SBATCH --partition=gpuq
+#SBATCH --account=interns2021037
+#SBATCH --gres=gpu:2
+
+module load singularity
+
+TENSORFLOW_IMAGE=$MYSCRATCH/tensorflow_20.03-tf2-py3.sif
+export SINGULARITYENV_CUDA=$CUDA_HOME
+
+time srun singularity run --nv -B $MYSCRATCH:$HOME $TENSORFLOW_IMAGE python mnist-distributed.py
+~~~
+
+When using multiple GPUs it is important to time your training process, to see what the optimal combination of GPUs/nodes is for your specific use case.
+
+Profiling your code can be done using the *time* command in your slu)rm script as per script above. Alternatively, more in-depth profiling can be done using TensorBoard which can be used with [PyTorch](https://pytorch.org/tutorials/intermediate/tensorboard_profiler_tutorial.html) and [Tensorflow](https://www.tensorflow.org/tensorboard/tensorboard_profiling_keras)
 
 
 <a name="package-management"></a> 
