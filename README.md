@@ -23,7 +23,7 @@ Hello Interns! Welcome to the CSIRO Pawsey Supercomputing Center internship reso
 	* [Introduction to Parallel Programming](#introduction-to-parallel-programming)
 	* [Parallel Programming with Python and MPI](#parallel-programming-with-python-and-mpi)
 	* [Parallel Programming with Python using the multiprocessing library](#parallel-programming-with-python-using-the-multiprocessing-library)
-	* [Efficient parallelisation of Python Machine learning libraries](efficient-parallelisation-of-python-machine-learning-libraries)
+	* [Efficient parallelisation of Python Machine learning libraries](#efficient-parallelisation-of-python-machine-learning-libraries)
 * [Package Management](#package-management)  :package::desktop_computer:
 	* [Using containers on a Pawsey system](#using-containers-on-a-pawsey-system)
 		* [Install additional Python packages in a container](#additional-python-packages-container)
